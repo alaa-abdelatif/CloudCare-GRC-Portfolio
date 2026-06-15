@@ -28,6 +28,9 @@ The portfolio showcases practical documentation used by Governance, Risk, Compli
 ### Third-Party Vendor Risk Register
 
 ![Vendor Risk Register](images/vendor-risk-register.png)
+### Incident Response Tracker
+
+![Incident Response Tracker](images/incident-response-tracker.png)
 ## Portfolio Documents
 
 ### Governance & Compliance
