@@ -7,7 +7,27 @@ This project demonstrates practical Governance, Risk & Compliance (GRC) activiti
 The portfolio showcases practical documentation used by Governance, Risk, Compliance and Information Security teams to identify risks, monitor compliance, manage assets and respond to security incidents.
 
 ---
+## Project Screenshots
 
+### ISO 27001 Gap Assessment
+
+![ISO 27001 Gap Assessment](images/iso27001-gap-assessment.png)
+
+### Risk Register
+
+![Risk Register](images/risk-register.png)
+
+### Security Audit Checklist
+
+![Security Audit Checklist](images/security-audit-checklist.png)
+
+### Asset Inventory
+
+![Asset Inventory](images/asset-inventory.png)
+
+### Third-Party Vendor Risk Register
+
+![Vendor Risk Register](images/vendor-risk-register.png)
 ## Portfolio Documents
 
 ### Governance & Compliance
